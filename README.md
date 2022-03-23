@@ -1,13 +1,10 @@
 ### Olá! Sou o Diego Oliveira 👋
-
 - 👨🏻‍🎓 Cursando ADS;
 - 💻 Estudando HTML, CSS e JavaScript;
 - 🎯 Focado no progresso.
-
-<div align="center">
-  <a href="https://github.com/diegooliveira10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegooliveira10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegooliveira10&layout=compact&langs_count=7&theme=github_dark"/>
+<a href="https://github.com/diegooliveira10">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=diegooliveira10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegooliveira10&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
     
 </div>
