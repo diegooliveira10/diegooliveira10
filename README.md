@@ -22,4 +22,4 @@
      <a href = "mailto:diegojesusdeoliveira10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/diego-oliveira-34b24b22b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-![snake gif](https://github.com/diegooliveira10/diegooliveira10/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/raffaballerini/raffaballerini/blob/output/github-contribution-grid-snake.svg)
